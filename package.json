@@ -1,0 +1,19 @@
+{
+  "name": "auction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hyperbee": "^2.20.0",
+    "hypercore": "^10.37.18",
+    "hyperdht": "^6.16.2",
+    "hyperswarm": "^4.8.2"
+  }
+}
